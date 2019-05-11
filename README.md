@@ -1,4 +1,3 @@
-# cdrh_biothreat
-PrecisionFDA CDRH Biothreat Challenge
+# PrecisionFDA CDRH Biothreat Challenge
 
 work in progress
